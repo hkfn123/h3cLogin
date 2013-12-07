@@ -1,0 +1,14 @@
+
+First:
+
+[root@localhost ~]#make
+
+Second:
+
+[root@localhost ~]#h3clogin -u admin -p a123456! -h 10.10.0.7
+
+Useage: h3clogin [hup]
+-h		hostname
+-u		username
+-p		password
+
