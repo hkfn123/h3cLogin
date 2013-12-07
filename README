@@ -1,1 +1,6 @@
 
+Useage: h3clogin [hup]
+-h		hostname
+-u		username
+-p		password
+
